@@ -3,7 +3,7 @@
 <h1 align="center"> Preview 👀 </h1>
 
 <h4 align="center">
-✨ See listed companies and details with Jetpack Compose ✨
+✨ See listed companies, details, and news. Manage your watchlist with Jetpack Compose ✨
 </h4></br>
 
 <p align="center">
